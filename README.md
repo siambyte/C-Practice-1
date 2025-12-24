@@ -1,2 +1,2 @@
 # C-Practice-1
-siam vai printed
+print hello siam vai
